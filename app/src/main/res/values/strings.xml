@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DemoApp</string>
+    <string name="go_to_list_button_text">Go to list fragment</string>
 </resources>
